@@ -1,3 +1,6 @@
+# Custom items to ignore
+mongodb_connection
+
 # Logs
 logs
 *.log
